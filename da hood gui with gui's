@@ -61,7 +61,7 @@ SwagMode.Text = "SwagMode"
 SwagMode.TextColor3 = Color3.fromRGB(0, 0, 0)
 SwagMode.TextSize = 14.000
 SwagMode.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002%22))()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002'))()
 end)
 
 TrustBoy.Name = "TrustBoy"
@@ -104,18 +104,15 @@ Victim.MouseButton1Down:connect(function()
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/GS21Official/DH-VictimMenu-Script/main/Dh%20VictimMenu%3A%20Script"))()
 end)
 
-LunarSpirit.Name = "Lunar Spirit"
+LunarSpirit.Name = "not working"
 LunarSpirit.Parent = Frame
 LunarSpirit.BackgroundColor3 = Color3.fromRGB(62, 62, 62)
 LunarSpirit.Position = UDim2.new(0.750830531, 0, 0.5, 0)
 LunarSpirit.Size = UDim2.new(0, 75, 0, 39)
 LunarSpirit.Font = Enum.Font.SourceSans
-LunarSpirit.Text = "Lunar Spirit"
+LunarSpirit.Text = "not working"
 LunarSpirit.TextColor3 = Color3.fromRGB(0, 0, 0)
 LunarSpirit.TextSize = 14.000
-LunarSpirit.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Pi-314Git/LunarSpirit/main/LunarDaHood.lua"))()
-end)
 
 FlareRevamped.Name = "Flare Revamped "
 FlareRevamped.Parent = Frame
@@ -123,12 +120,9 @@ FlareRevamped.BackgroundColor3 = Color3.fromRGB(62, 62, 62)
 FlareRevamped.Position = UDim2.new(1.44354999e-08, 0, 0.755102038, 0)
 FlareRevamped.Size = UDim2.new(0, 75, 0, 39)
 FlareRevamped.Font = Enum.Font.SourceSans
-FlareRevamped.Text = "Flare revemped"
+FlareRevamped.Text = "not working"
 FlareRevamped.TextColor3 = Color3.fromRGB(0, 0, 0)
 FlareRevamped.TextSize = 13.000
-FlareRevamped.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/NBZion/scripts/main/Flare.lua"))()
-end)
 
 ShoeAutoFarm.Name = "Shoe AutoFarm"
 ShoeAutoFarm.Parent = Frame
@@ -136,12 +130,9 @@ ShoeAutoFarm.BackgroundColor3 = Color3.fromRGB(62, 62, 62)
 ShoeAutoFarm.Position = UDim2.new(0.375415295, 0, 0.755102038, 0)
 ShoeAutoFarm.Size = UDim2.new(0, 75, 0, 39)
 ShoeAutoFarm.Font = Enum.Font.SourceSans
-ShoeAutoFarm.Text = "Shoe AutoFarm"
+ShoeAutoFarm.Text = "not working"
 ShoeAutoFarm.TextColor3 = Color3.fromRGB(0, 0, 0)
 ShoeAutoFarm.TextSize = 13.000
-ShoeAutoFarm.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet(('https://pastebin.com/raw/PHT5eek0'),true))()
-end)
 
 DaHoodFuckerV1.Name = "Da Hood Fucker  V1"
 DaHoodFuckerV1.Parent = Frame
@@ -149,12 +140,9 @@ DaHoodFuckerV1.BackgroundColor3 = Color3.fromRGB(62, 62, 62)
 DaHoodFuckerV1.Position = UDim2.new(0.750830531, 0, 0.755102038, 0)
 DaHoodFuckerV1.Size = UDim2.new(0, 75, 0, 39)
 DaHoodFuckerV1.Font = Enum.Font.SourceSans
-DaHoodFuckerV1.Text = "Da Hood Fucker  V1"
+DaHoodFuckerV1.Text = "not working"
 DaHoodFuckerV1.TextColor3 = Color3.fromRGB(0, 0, 0)
 DaHoodFuckerV1.TextSize = 10.000
-DaHoodFuckerV1.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet(('https://pastebin.com/raw/PHT5eek0'),true))()
-end)
 
 close.Name = "close"
 close.Parent = Frame
